@@ -1,0 +1,8 @@
+Accuracy score :
+
+Algorithms          Dos     Probe    R2L      U2R
+Random forest       99.7    99.3     97.6     99.7
+Decision Tree       99.6    99.5     97.9     99.6
+SVM                 99.3    98.4     96.7     99.6
+KNN                 99.7    99       96.7     99.7
+Ensemble learning   99.8    99.6     99.7     97.9
